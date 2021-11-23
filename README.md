@@ -1,4 +1,4 @@
-# Android实现根据包名跳转各大应用市场
+# Android跳转各应用市场
 [![](https://jitpack.io/v/dahui888/StartMarket.svg)](https://jitpack.io/#dahui888/StartMarket)
 [![API](https://img.shields.io/badge/API-14%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=14)
 
