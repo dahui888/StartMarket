@@ -1,5 +1,5 @@
 # Android实现根据包名跳转各大应用市场
-[![](https://jitpack.io/v/yangsanning/AppUtils.svg)](https://jitpack.io/#yangsanning/AppUtils)
+[![](https://jitpack.io/v/dahui888/StartMarket.svg)](https://jitpack.io/#dahui888/StartMarket)
 [![API](https://img.shields.io/badge/API-19%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=19)
 
 ### 1.添加方法
@@ -19,7 +19,7 @@ repositories {
 在需要添加依赖的 Module 下添加以下信息，使用方式和普通的远程仓库一样。
 
 ```android
-
+implementation 'com.github.dahui888:StartMarket:v1.0.0'
 ```
 ### 1.使用方法
 
